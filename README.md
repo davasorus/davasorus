@@ -12,7 +12,7 @@ I'm currently working on C# and .Net 6 applications as part of the Tyler Enterpr
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davasorus&theme=dark&hide_border=false)<br/>
 [![Davasorus's GitHub stats](https://github-readme-stats.vercel.app/api?username=davasorus)](https://github.com/davasorus/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davasorusra&layout=compact)](https://github.com/davasorus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davasorus&layout=compact)](https://github.com/davasorus/github-readme-stats)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
